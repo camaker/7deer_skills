@@ -1,7 +1,7 @@
 # Pickaxe Tycoon 建站复盘（2026-05-27）
 
 **游戏**: Pickaxe Tycoon
-**站点**: pickaxe-tycoon-gg.pages.dev → pickaxetycoon.gg
+**站点**: pickaxe-tycoon-gg.pages.dev → {site-a}.gg
 **仓库**: github.com/kennyzir/pickaxe-tycoon-gg
 **本地路径**: /Users/zirer/Projects/{repo-name}
 

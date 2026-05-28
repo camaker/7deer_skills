@@ -1,6 +1,6 @@
 # Pickaxe Tycoon — Game Data Reference
 
-Game domain: `pickaxetycoon.gg`
+Game domain: `{site-a}.gg`
 Repository: `/Users/zirer/Projects/{repo-name}`
 Roblox ID: `73814003954154`
 Genre: Tycoon / Simulator

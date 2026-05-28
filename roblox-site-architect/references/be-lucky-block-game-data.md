@@ -1,6 +1,6 @@
 # Be a Lucky Block — Game Data Reference
 
-Game domain: `bealuckyblock.gg`
+Game domain: `{site-a}.gg`
 Repository: `/Users/zirer/Projects/{repo-name}`
 
 ---

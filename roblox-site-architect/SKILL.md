@@ -785,12 +785,12 @@ wrangler pages deploy out --project-name={project-name}
 ```
 
 **如果域名已添加到 Cloudflare**：
-- 登录 Cloudflare Dashboard → Pages → `pickaxe-tycoon-gg` 项目 → Settings → Custom domains → 添加 `pickaxetycoon.gg`
+- 登录 Cloudflare Dashboard → Pages → `{project-name}` 项目 → Settings → Custom domains → 添加 `{site-domain}.gg`
 
 **验证域名**：
 ```bash
 # 用 browser_navigate 打开正式域名，不要用 urllib（SSL 问题）
-browser_navigate url="https://pickaxetycoon.gg"
+browser_navigate url="https://{site-domain}.gg"
 ```
 
 ### Step 5.5: 验证上线
@@ -1092,7 +1092,7 @@ commit: xxx
 ## 坑
 
 0. **🚫 不要跳过 YouTube 调研就用假数据建站**
-   这是本 skill 最高频失误。上一轮 pickaxe-tycoon-gg 就是没做 YouTube 调研，导致用假数据（6个乱编的pickaxe、错误的power值）建了一个垃圾站。
+   这是本 skill 最高频失误。上一轮 {project-name} 就是没做 YouTube 调研，导致用假数据（6个乱编的pickaxe、错误的power值）建了一个垃圾站。
    **正确流程（Phase 1 + Phase 2 必须先跑完）**：
    - Phase 1：浏览器打开 Roblox 商店页 → 记录真实游戏ID/类型/在线人数/收藏数
    - Phase 2：YouTube 搜索 "site:youtube.com {游戏名} update 2026" → 找4-5个真实视频 → 逐个点进描述里挖游戏机制数据

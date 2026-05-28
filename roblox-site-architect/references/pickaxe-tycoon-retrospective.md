@@ -3,7 +3,7 @@
 **游戏**: Pickaxe Tycoon
 **站点**: pickaxe-tycoon-gg.pages.dev → pickaxetycoon.gg
 **仓库**: github.com/kennyzir/pickaxe-tycoon-gg
-**本地路径**: /Users/zirer/Projects/pickaxe-tycoon-gg
+**本地路径**: /Users/zirer/Projects/{repo-name}
 
 ---
 

@@ -307,7 +307,7 @@ export default async function ItemDetailPage({ params }: { params: Promise<{ slu
 """Git add + commit + push for {project-name}."""
 import subprocess, sys
 
-proj = "/Users/zirer/Projects/{repo-name}"
+proj = "/path/to/your/project"
 msg = sys.argv[1] if len(sys.argv) > 1 else "chore: update"
 
 for cmd in [

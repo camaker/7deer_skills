@@ -7,7 +7,7 @@ Uses **Data Architecture Mode B** (multi-file JSON + accessor layer), unlike the
 ## Project Specifics
 - Game: Block Tales (Spaceman Moonbase, Demo 5)
 - Repo: `kennyzir/block-tales-site`
-- Local path: `/Users/zirer/Projects/block-tales-site`
+- Local path: `/Users/zirer/Projects/{repo-name}`
 
 ## Data Architecture (Mode B)
 ```

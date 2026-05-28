@@ -1,7 +1,7 @@
 # Be a Lucky Block — Game Data Reference
 
 Game domain: `bealuckyblock.gg`
-Repository: `/Users/zirer/sunny/code/be-a-lucky-block-calculator`
+Repository: `/Users/zirer/Projects/{repo-name}`
 
 ---
 
